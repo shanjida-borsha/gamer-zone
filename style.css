@@ -143,10 +143,11 @@ ul {
 /* footer styles */
 
 footer {
-    height: 400px;
+    height: 380px;
     width: 1250px;
     background-color: #0B0223;
     justify-content: center;
+    margin-top: 50px;
 }
 
 .f-logo {
@@ -181,6 +182,22 @@ footer .options {
     padding-top: 20px;
 }
 
+.copyright {
+    color: gray;
+    font-size: smaller;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+/* Responsive styles */
+/* for mobile devices */
+
+@media screen and (max-width:576px) {
+    .nav-container {
+        display: block;
+    }
+}
 
 
 
