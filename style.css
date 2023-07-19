@@ -10,8 +10,8 @@
     justify-content: space-around;
     align-items: center;
     padding: 10px;
-    height: 50px;
-    background-color: rgb(242, 236, 225)
+    height: 70px;
+    background-color: white
 }
 
 .menus {
@@ -25,4 +25,62 @@
     gap: 10px;
     width: 86.041px;
     height: 40px;
+    margin-left: 50px;
 }
+
+h1 {
+    margin-top: 70px;
+    margin-left: 80px;
+}
+
+/* banner styles */
+
+.banner-container {
+    background-color: rgb(242, 236, 225);
+    display: flex;
+}
+
+.banner-container > .banner-title {
+    color: #0B0223;
+    font-family: Work Sans;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: flex;
+    height: 100%;
+}
+
+.banner-heading, .banner-description {
+    margin-left: 50px;
+}
+
+.banner-description {
+    gap: 50px;
+}
+
+.banner-writings, .image1 {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+    margin-top: 250px;
+   
+}
+/* button styles */
+
+.btn {
+    padding: 25px;
+    border-radius: 40%;
+}
+
+/* main part styles */
+
+.gamer {
+    text-align: right;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
