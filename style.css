@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* header styles */
+
+.nav-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    height: 50px;
+    background-color: rgb(242, 236, 225)
+}
+
+.menus {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.logo {
+    display: flex;
+    gap: 10px;
+    width: 86.041px;
+    height: 40px;
+}
