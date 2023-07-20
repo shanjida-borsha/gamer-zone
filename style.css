@@ -190,6 +190,26 @@ footer .options {
     padding-top: 30px;
 }
 
+
+/* section-3 starts */
+.card-header {
+    margin-left: 450px;
+}
+
+
+.card {
+    margin-left: 200px;
+    margin-top: 50px;
+   
+}
+
+.card-description {
+    margin-left: 480px;
+    margin-top: 10px;
+    font-size: smaller;
+}
+
+
 /* Responsive styles */
 /* for mobile devices */
 
